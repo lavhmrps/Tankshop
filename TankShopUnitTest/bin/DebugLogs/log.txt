@@ -1,0 +1,210 @@
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.EditCategory(String categoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 200
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.DeleteCategory(String CategoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 238
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.Edit(String CategoryId, String CategoryName) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 112
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.Delete(String CategoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 159
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.EditImage(String imageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 216
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.DeleteImage(String imageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 257
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Create(String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 69
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Edit(String ImageId, String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 115
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Edit(String ImageId, String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 126
+
+
+Error @ 08.11.2015 22:50:19 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Delete(String ImageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 169
+
+
+Error @ 08.11.2015 23:22:45 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.EditCategory(String categoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 200
+
+
+Error @ 08.11.2015 23:22:45 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.DeleteCategory(String CategoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 238
+
+
+Error @ 08.11.2015 23:22:45 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.Edit(String CategoryId, String CategoryName) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 112
+
+
+Error @ 08.11.2015 23:22:45 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.Delete(String CategoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 159
+
+
+Error @ 08.11.2015 23:22:46 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.EditImage(String imageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 216
+
+
+Error @ 08.11.2015 23:22:46 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.DeleteImage(String imageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 257
+
+
+Error @ 08.11.2015 23:22:46 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Create(String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 69
+
+
+Error @ 08.11.2015 23:22:46 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Edit(String ImageId, String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 115
+
+
+Error @ 08.11.2015 23:22:46 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Edit(String ImageId, String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 126
+
+
+Error @ 08.11.2015 23:22:46 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Delete(String ImageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 169
+
+
+Error @ 08.11.2015 23:34:12 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.EditCategory(String categoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 200
+
+
+Error @ 08.11.2015 23:34:12 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.DeleteCategory(String CategoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 238
+
+
+Error @ 08.11.2015 23:34:12 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.Edit(String CategoryId, String CategoryName) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 112
+
+
+Error @ 08.11.2015 23:34:12 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.CategoryController.Delete(String CategoryId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\CategoryController.cs:line 159
+
+
+Error @ 08.11.2015 23:34:13 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.EditImage(String imageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 216
+
+
+Error @ 08.11.2015 23:34:13 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.DeleteImage(String imageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 257
+
+
+Error @ 08.11.2015 23:34:13 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Create(String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 69
+
+
+Error @ 08.11.2015 23:34:13 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Edit(String ImageId, String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 115
+
+
+Error @ 08.11.2015 23:34:13 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Edit(String ImageId, String ProductIDs, String ImageUrl) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 126
+
+
+Error @ 08.11.2015 23:34:13 --> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Nettbutikk.Controllers.ImageController.Delete(String ImageId) in C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Oblig1_Nettbutikk\Controllers\ImageController.cs:line 169
+
+

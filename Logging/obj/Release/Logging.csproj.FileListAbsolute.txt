@@ -1,0 +1,5 @@
+C:\Users\per\Desktop\Tankshop\Logging\bin\Release\Logging.dll
+C:\Users\per\Desktop\Tankshop\Logging\bin\Release\Logging.pdb
+C:\Users\per\Desktop\Tankshop\Logging\obj\Release\Logging.csprojResolveAssemblyReference.cache
+C:\Users\per\Desktop\Tankshop\Logging\obj\Release\Logging.dll
+C:\Users\per\Desktop\Tankshop\Logging\obj\Release\Logging.pdb

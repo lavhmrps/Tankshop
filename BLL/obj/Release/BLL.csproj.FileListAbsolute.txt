@@ -1,0 +1,13 @@
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\BLL.dll
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\BLL.pdb
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\DAL.dll
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\Logging.dll
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\Model.dll
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\EntityFramework.dll
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\DAL.pdb
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\Logging.pdb
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\Model.pdb
+C:\Users\per\Desktop\Tankshop\BLL\bin\Release\EntityFramework.xml
+C:\Users\per\Desktop\Tankshop\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\per\Desktop\Tankshop\BLL\obj\Release\BLL.dll
+C:\Users\per\Desktop\Tankshop\BLL\obj\Release\BLL.pdb

@@ -1,0 +1,5 @@
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Logging\bin\Debug\Logging.dll
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Logging\bin\Debug\Logging.pdb
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Logging\obj\Debug\Logging.dll
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Logging\obj\Debug\Logging.pdb

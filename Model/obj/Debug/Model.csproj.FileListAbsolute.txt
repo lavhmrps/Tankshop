@@ -1,0 +1,5 @@
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Model\bin\Debug\Model.dll
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Model\bin\Debug\Model.pdb
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Model\obj\Debug\Model.dll
+C:\Users\per\Documents\HiOA\WebApplikasjoner\Tankshop\Model\obj\Debug\Model.pdb

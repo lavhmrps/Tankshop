@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="tankshop" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\per\\Desktop\\Tankshop\\Nettbutikk\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\per\\Desktop\\Tankshop\\Nettbutikk\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="TankshopDbContext-Web.config Connection String" description="" value="Data Source=84.212.112.95:80;Initial Catalog=TankshopDb;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\per\\Desktop\\Tankshop\\Nettbutikk\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TankshopDbContext']/@connectionString" />
+  </parameter>
+  <parameter name="TankshopDbContext_IIS_DB-Web.config Connection String" description="" value="Data Source=84.212.112.95:80;Initial Catalog=TankshopDb;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\per\\Desktop\\Tankshop\\Nettbutikk\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TankshopDbContext_IIS_DB']/@connectionString" />
+  </parameter>
+</parameters>
